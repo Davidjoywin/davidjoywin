@@ -1,0 +1,42 @@
+What happens when you type https://www.google.com and you press enter?
+
+Firstly, I start by explaining what each term and process that will be used or usefull in this process.
+
+DNS request
+TCP/IP
+Firewall
+HTTPS/SSL
+load-balancer
+web server
+Application server
+Database
+
+DNS request is like a phone book that maps a person name to the contact number. DNS maps the address name like www.google.com to the ip address that links to google server.
+
+IP: Every home or office has an address that tell anyone going to a particular home or office where precisely it is located in any town or city. The IP address which in full is internet protocol also tells the browser where the required application server is located on the internet.
+
+TCP: Transmission Control Protocol is a transport-layer protocol. It provides a reliable virtual-circuit connection between applications. That is a connection is established before data transmission begins.
+
+Firewall: It is a network security protocol that monitors and filters incoming and outgoing network traffic based on an organization's established security rules.
+
+HTTPS/SSL: HTTP is hyper text transfer protocol. The 's' at the back is security. HTTPS is use to encrypt the transfer data within the website.
+
+load_balancer: is a device that acts as a reverse proxy and distributes network or application traffic accross a number of servers. Load Balancers are used to increase capacity and reliability of applications.
+
+Web server: This is a software or hardware that serve a client requests made over the world wide web.
+
+Application server: It works as an intermediary between databases, which stor application data and web clients.
+
+Database: This is the easiest way to store data on web. Data like profile, transfer history etc that needs to be processed by the application server without propting the user for the data everytime it want to use it are stored on the database. It can be read and overwritten at will.
+
+What happens when you type https:www.google.com and you press enter?
+
+The browser sends the a request to the ISP, which is the internet service provider e.g Airtel, MTN, globacom, spectranet etc. The ISP then relay the request to a DNS server. The DNS is like a phonebook mapping contact name to a contact phone number. The dns checks for the corresponding ip address to the requested website.
+
+An ip address is the location of the website requested. The requested ip address is the sent back to the DNS server then to your ISP. The resulting message is called response is then delivered through what is called internet backbone.
+
+The internet backbone is really the backbone of the internet. Https://www.submarinecablemap.com/ shows how the internet is actually connected as huge sprawing underwater wires or cables.
+The internet backbone then passes the response received from to the ISP and send it to the server located at a particular address which is 142.250.201.164. The computer located at this address is the google server. This server contains everything required to display the google homepage.
+The google server then sends all the required files through the internet backbone and we see the google backbone. This action might seems complicated for all we see but it takes just milliseconds to carry out all these processes.
+
+https://moreequalanimals.com/assets/img/appserver.png
