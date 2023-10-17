@@ -1,6 +1,6 @@
 # 🦾 David Joy
 
-**`Web Developer and Designer`**
+**`Software Engineer and Web Developer`**
 
 I'm a seasoned web developer with a strong foundation in Python, Django, HTML, CSS, JavaScript, React, and SQL. Over the years, I've deployed numerous projects on Heroku and Netlify, gaining valuable experience in these platforms. My most notable project is giveglobal, an charity app integrating external API that I've poured countless hours into.
 
@@ -12,6 +12,8 @@ When I'm not coding or studying, you can find me immersed in a good book, gaming
 
 ### 🧰 Languages and Tools
 
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
